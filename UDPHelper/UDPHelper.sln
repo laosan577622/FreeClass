@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UDPHelper", "UDPHelper.vcxproj", "{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Debug|x64.ActiveCfg = Debug|x64
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Debug|x64.Build.0 = Debug|x64
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Debug|x86.ActiveCfg = Debug|Win32
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Debug|x86.Build.0 = Debug|Win32
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Release|x64.ActiveCfg = Release|x64
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Release|x64.Build.0 = Release|x64
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Release|x86.ActiveCfg = Release|Win32
+		{B20CB47F-E30E-498B-AF80-07BAE1E6F01E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02E028CA-2C3D-4ECE-83FC-F9054C4937A5}
+	EndGlobalSection
+EndGlobal
