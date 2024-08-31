@@ -37,7 +37,7 @@ FreeClass\
     cd FreeClass
     ```
 3. 编译源码：
-    - 使用易语言编译器编译易语言程序（`main.c`）。
+    - 使用易语言编译器编译易语言程序（`main.e`）。
     - 在同一目录下，使用适当的C编译器（如GCC）编译 `JiyuWindowsKiller.c` 文件：
       ```bash
       gcc -o JiyuWindowsKiller JiyuWindowsKiller.c
