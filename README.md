@@ -23,7 +23,7 @@ FreeClass\
 ## 安装
 
 ### 通过官方网站安装
-前往官方网站[freeclass.577622.xyz](https://freeclass.577622.xyz)按照提示进行下载安装
+前往官方网站[freeclass.577622.xyz](https://freeclass.577622.xyz)或者[laosanjiekong.framer.website](https://laosanjiekong.framer.website/)按照提示进行下载安装
 
 
 ### 从源码安装
